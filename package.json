@@ -144,7 +144,7 @@
     "scripty": "^1.5.0",
     "sequelize": "4.41.2",
     "sequelize-typescript": "0.6.6",
-    "sharp": "^0.21.0",
+    "sharp": "^0.30.5",
     "sitemap": "^2.1.0",
     "socket.io": "^2.2.0",
     "srt-to-vtt": "^1.1.2",
